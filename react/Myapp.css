@@ -1,0 +1,29 @@
+.heading{
+  text-align:center;
+  color:green;
+  margin-bottom: 10px;
+}
+.div{
+border : 1px solid red;
+background-color: yellow;
+border-radius:25px;
+margin-right: 400px;
+margin-left:400px;
+margin-bottom: 30px;
+box-shadow: 60px -16px black;
+}
+
+.p{
+  text-align: center;
+}
+
+.dis{
+  margin-bottom: 30px;
+}
+
+.chh{
+  border: 1px solid brown;
+  margin-right:1100px;
+  text-align: center;
+  background-color: pink;
+}
